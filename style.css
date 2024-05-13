@@ -14,14 +14,14 @@ ol li{
 }
 a{
     text-decoration: none;
-    color: beige;
+    color: tomato;
     font-family: quicksand, serif;}
 
     a:hover{
         text-decoration:underline ;
         font-weight: bold;
         color: tomato;
-        font-size: 50px;
+        font-size: 30px;
         transition: 0.5s ease-in;
 
 
@@ -31,7 +31,7 @@ a{
         color: brown;
         text-decoration:none ;
         font-family: poppins,sans-serif;
-        font-size: 30px;
+        font-size: 20px;
 
 
     }
@@ -40,7 +40,7 @@ a{
     text-decoration: underline;
     font-weight: bold;
     color: brown;
-    font-size: 30px;
+    font-size: 20px;
     transition: 0.5s ease-in;
 
 }
